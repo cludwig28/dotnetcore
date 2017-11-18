@@ -39,3 +39,4 @@ msbuild.wrn
 # Project specific
 Server/wwwroot/
 Server/wwwroot/*
+appsettings.*.json
